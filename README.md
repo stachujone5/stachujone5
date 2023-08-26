@@ -1,13 +1,13 @@
 # 💫 About Me:
 
-🔭I am fullstack developer currently working on [acap](https://github.com/stachujone5/acap)
+🔭I am a fullstack developer currently working on [acap](https://github.com/stachujone5/acap)
 
-# 🌱I am currently learning
+# 🌱 I'm currently learning
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-# 💻 Tech Stack:
+# 💻 Tech stack:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logoColor=white&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,7 +40,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=stachujone5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stachujone5&theme=tokyonight&hide_border=false)<br/>
